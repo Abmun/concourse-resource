@@ -1,3 +1,3 @@
 # concourse-resource
 
-Test
+Concourse example git repo
